@@ -1,0 +1,2 @@
+# S2UyP
+Semana 2: UNIX Y PYTHON
